@@ -28,7 +28,7 @@
 - <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **wifi connection 🌐**
 - <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *sleepyness* 😴
 
 
 <br>
