@@ -23,7 +23,7 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* how to **flex** 💪.
 - <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍, Java, Lua projects**.
 - <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **wifi connection 🌐**
 - <img alt="GIF" src="https://github.com/broduer/broduer/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
